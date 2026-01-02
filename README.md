@@ -2,6 +2,7 @@
 
 **plug.zsh** is an extremely simple zsh plugin manager (~60 LOC), pre-compiling plugins to avoid startup overhead.
 It can install, update and remove plugins.
+![](../demos/assets/plug.webp?raw=true)
 
 ---
 
